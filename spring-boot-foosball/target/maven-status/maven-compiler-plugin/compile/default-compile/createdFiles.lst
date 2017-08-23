@@ -1,0 +1,9 @@
+au/com/meret/service/PlayerService.class
+au/com/meret/controller/MatchController.class
+au/com/meret/FoosballRankingSystemApplication.class
+au/com/meret/utils/DateAttributeConverter.class
+au/com/meret/controller/HomeController.class
+au/com/meret/repository/MatchRepository.class
+au/com/meret/service/MatchService.class
+au/com/meret/model/Match.class
+au/com/meret/repository/PlayerRepository.class
